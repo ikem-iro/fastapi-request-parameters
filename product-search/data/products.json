@@ -1,0 +1,503 @@
+[
+    {
+      "product_name": "AT&T Mustang",
+      "price": 361.36,
+      "category": "AT&T"
+    },
+    {
+      "product_name": "Telit GM 410",
+      "price": 263.58,
+      "category": "Telit"
+    },
+    {
+      "product_name": "Nokia 2680 slide",
+      "price": 544.37,
+      "category": "Nokia"
+    },
+    {
+      "product_name": "Apple iPad Pro 12.9 (2015)",
+      "price": 411.97,
+      "category": "Apple"
+    },
+    {
+      "product_name": "Philips Xenium 9@9t",
+      "price": 824.74,
+      "category": "Philips"
+    },
+    {
+      "product_name": "Samsung B3310",
+      "price": 613.06,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Amoi F620",
+      "price": 104.57,
+      "category": "Amoi"
+    },
+    {
+      "product_name": "Samsung Galaxy A20e",
+      "price": 772.91,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Sony Ericsson Windows Phone 7",
+      "price": 847.3,
+      "category": "Sony"
+    },
+    {
+      "product_name": "Lava Z92",
+      "price": 512.49,
+      "category": "Lava"
+    },
+    {
+      "product_name": "Plum Ram 4",
+      "price": 530.83,
+      "category": "Plum"
+    },
+    {
+      "product_name": "Spice Mi-438 Stellar Glide",
+      "price": 339.51,
+      "category": "Spice"
+    },
+    {
+      "product_name": "HTC Touch2",
+      "price": 239.93,
+      "category": "HTC"
+    },
+    {
+      "product_name": "Sendo X",
+      "price": 570.56,
+      "category": "Sendo"
+    },
+    {
+      "product_name": "Wiko Birdy",
+      "price": 533.12,
+      "category": "Wiko"
+    },
+    {
+      "product_name": "Sendo S300",
+      "price": 544.96,
+      "category": "Sendo"
+    },
+    {
+      "product_name": "Samsung T200",
+      "price": 845.59,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Sony CMD J70",
+      "price": 931.7,
+      "category": "Sony"
+    },
+    {
+      "product_name": "Lenovo K900",
+      "price": 665.82,
+      "category": "Lenovo"
+    },
+    {
+      "product_name": "Nokia Asha 311",
+      "price": 378.26,
+      "category": "Nokia"
+    },
+    {
+      "product_name": "Xiaomi Redmi 8",
+      "price": 353.05,
+      "category": "Xiaomi"
+    },
+    {
+      "product_name": "T-Mobile myTouch 3G Fender Edition",
+      "price": 686.3,
+      "category": "T-Mobile"
+    },
+    {
+      "product_name": "Maxwest Gravity 5",
+      "price": 674.79,
+      "category": "Maxwest"
+    },
+    {
+      "product_name": "HTC Flyer",
+      "price": 202.27,
+      "category": "HTC"
+    },
+    {
+      "product_name": "verykool i672",
+      "price": 129.69,
+      "category": "verykool"
+    },
+    {
+      "product_name": "Samsung B2700",
+      "price": 823.81,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Samsung S5230 Star",
+      "price": 162.53,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "alcatel OT-S850",
+      "price": 327.22,
+      "category": "alcatel"
+    },
+    {
+      "product_name": "Motorola RAZR V XT889",
+      "price": 233.56,
+      "category": "Motorola"
+    },
+    {
+      "product_name": "Samsung C3060R",
+      "price": 298.09,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Samsung Galaxy Tab A 8.0 & S Pen (2015)",
+      "price": 158.57,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "HTC Touch Pro",
+      "price": 713.65,
+      "category": "HTC"
+    },
+    {
+      "product_name": "Meizu Pro 7 Plus",
+      "price": 463.05,
+      "category": "Meizu"
+    },
+    {
+      "product_name": "Intex Aqua Star L",
+      "price": 543.9,
+      "category": "Intex"
+    },
+    {
+      "product_name": "Nokia 8310",
+      "price": 581.35,
+      "category": "Nokia"
+    },
+    {
+      "product_name": "BlackBerry 7130c",
+      "price": 184.32,
+      "category": "BlackBerry"
+    },
+    {
+      "product_name": "XOLO Q1010",
+      "price": 367.61,
+      "category": "XOLO"
+    },
+    {
+      "product_name": "Wiko Goa",
+      "price": 948.66,
+      "category": "Wiko"
+    },
+    {
+      "product_name": "Oppo Reno3 Pro",
+      "price": 27.57,
+      "category": "Oppo"
+    },
+    {
+      "product_name": "Karbonn Titanium Octane",
+      "price": 165.27,
+      "category": "Karbonn"
+    },
+    {
+      "product_name": "vivo X27 Pro",
+      "price": 170.05,
+      "category": "vivo"
+    },
+    {
+      "product_name": "Oppo F7 Youth",
+      "price": 897.22,
+      "category": "Oppo"
+    },
+    {
+      "product_name": "BLU Advance 4.0 L3",
+      "price": 279.23,
+      "category": "BLU"
+    },
+    {
+      "product_name": "Samsung B7620 Giorgio Armani",
+      "price": 402.31,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Emporia Solid Plus",
+      "price": 242.25,
+      "category": "Emporia"
+    },
+    {
+      "product_name": "LG G Vista 2",
+      "price": 777.93,
+      "category": "LG"
+    },
+    {
+      "product_name": "HTC Inspire 4G",
+      "price": 348.83,
+      "category": "HTC"
+    },
+    {
+      "product_name": "Samsung I9230 Galaxy Golden",
+      "price": 974,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Celkon C52",
+      "price": 302.11,
+      "category": "Celkon"
+    },
+    {
+      "product_name": "HP Pro Slate 8",
+      "price": 950.48,
+      "category": "HP"
+    },
+    {
+      "product_name": "Nokia 8850",
+      "price": 840.07,
+      "category": "Nokia"
+    },
+    {
+      "product_name": "Samsung D700",
+      "price": 745.07,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Benefon TWIG Discovery Pro",
+      "price": 390.8,
+      "category": "Benefon"
+    },
+    {
+      "product_name": "ZTE nubia Z20",
+      "price": 482.71,
+      "category": "ZTE"
+    },
+    {
+      "product_name": "Panasonic P341i",
+      "price": 522.43,
+      "category": "Panasonic"
+    },
+    {
+      "product_name": "Samsung I9506 Galaxy S4",
+      "price": 472.42,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "alcatel One Touch Fire",
+      "price": 327.95,
+      "category": "alcatel"
+    },
+    {
+      "product_name": "Sharp 703",
+      "price": 272.09,
+      "category": "Sharp"
+    },
+    {
+      "product_name": "Infinix Hot 9",
+      "price": 454.06,
+      "category": "Infinix"
+    },
+    {
+      "product_name": "ZTE Blade V9",
+      "price": 25.16,
+      "category": "ZTE"
+    },
+    {
+      "product_name": "Samsung I9105 Galaxy S II Plus",
+      "price": 877.78,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Motorola Moto X Style",
+      "price": 654.23,
+      "category": "Motorola"
+    },
+    {
+      "product_name": "Acer Liquid Z630",
+      "price": 37.96,
+      "category": "Acer"
+    },
+    {
+      "product_name": "Haier P6",
+      "price": 212.99,
+      "category": "Haier"
+    },
+    {
+      "product_name": "Samsung Galaxy A20e",
+      "price": 918.34,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Samsung E860",
+      "price": 428.92,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Nokia Lumia 900 AT&T",
+      "price": 540.21,
+      "category": "Nokia"
+    },
+    {
+      "product_name": "Telit G82",
+      "price": 941.11,
+      "category": "Telit"
+    },
+    {
+      "product_name": "Microsoft Kin TWOm",
+      "price": 67.44,
+      "category": "Microsoft"
+    },
+    {
+      "product_name": "Philips 692",
+      "price": 249.44,
+      "category": "Philips"
+    },
+    {
+      "product_name": "BlackBerry 8820",
+      "price": 252.05,
+      "category": "BlackBerry"
+    },
+    {
+      "product_name": "LG Optimus LTE2",
+      "price": 954.98,
+      "category": "LG"
+    },
+    {
+      "product_name": "Samsung P940",
+      "price": 943.69,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Huawei Ascend G330",
+      "price": 658.45,
+      "category": "Huawei"
+    },
+    {
+      "product_name": "Sony Ericsson Z310",
+      "price": 517.92,
+      "category": "Sony"
+    },
+    {
+      "product_name": "BlackBerry Curve 8310",
+      "price": 484.69,
+      "category": "BlackBerry"
+    },
+    {
+      "product_name": "Samsung Galaxy Note T879",
+      "price": 79.78,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Samsung E1170",
+      "price": 23.38,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Motorola Moto G Dual SIM (2nd gen)",
+      "price": 828.26,
+      "category": "Motorola"
+    },
+    {
+      "product_name": "vivo Y91i",
+      "price": 815.58,
+      "category": "vivo"
+    },
+    {
+      "product_name": "Nokia 3200",
+      "price": 301.23,
+      "category": "Nokia"
+    },
+    {
+      "product_name": "ZTE Blade Force",
+      "price": 597.46,
+      "category": "ZTE"
+    },
+    {
+      "product_name": "Sharp Aquos B10",
+      "price": 897.26,
+      "category": "Sharp"
+    },
+    {
+      "product_name": "Asus Zenfone Live ZB501KL",
+      "price": 418.45,
+      "category": "Asus"
+    },
+    {
+      "product_name": "Sony Ericsson T280",
+      "price": 829.9,
+      "category": "Sony"
+    },
+    {
+      "product_name": "QMobile Noir X950",
+      "price": 673.98,
+      "category": "QMobile"
+    },
+    {
+      "product_name": "Kyocera Echo",
+      "price": 944.84,
+      "category": "Kyocera"
+    },
+    {
+      "product_name": "Micromax Funbook Pro",
+      "price": 850.09,
+      "category": "Micromax"
+    },
+    {
+      "product_name": "Motorola EX128",
+      "price": 560.3,
+      "category": "Motorola"
+    },
+    {
+      "product_name": "Asus Zenfone 5 Lite A502CG (2014)",
+      "price": 842.34,
+      "category": "Asus"
+    },
+    {
+      "product_name": "Spice S-6005",
+      "price": 583.14,
+      "category": "Spice"
+    },
+    {
+      "product_name": "Lenovo A328",
+      "price": 430.14,
+      "category": "Lenovo"
+    },
+    {
+      "product_name": "Motorola Moto E5 Play Go",
+      "price": 180.3,
+      "category": "Motorola"
+    },
+    {
+      "product_name": "alcatel OT-S210",
+      "price": 701.45,
+      "category": "alcatel"
+    },
+    {
+      "product_name": "Samsung i927 Captivate Glide",
+      "price": 523.02,
+      "category": "Samsung"
+    },
+    {
+      "product_name": "Realme Q2 Pro",
+      "price": 804.42,
+      "category": "Realme"
+    },
+    {
+      "product_name": "HTC DROID DNA",
+      "price": 6.95,
+      "category": "HTC"
+    },
+    {
+      "product_name": "Meizu 16s",
+      "price": 781.79,
+      "category": "Meizu"
+    },
+    {
+      "product_name": "verykool i315N",
+      "price": 648.62,
+      "category": "verykool"
+    },
+    {
+      "product_name": "Sony Ericsson WT18i",
+      "price": 42.12,
+      "category": "Sony"
+    }
+  ]
+  

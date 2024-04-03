@@ -1,0 +1,602 @@
+[
+  {
+    "car_make": "Jeep",
+    "car_model": "Grand Cherokee",
+    "vin": "1D7RB1CT4BS596174",
+    "price": 16664.82
+  },
+  {
+    "car_make": "Honda",
+    "car_model": "Accord",
+    "vin": "3C63D2CLXCG266815",
+    "price": 15549.39
+  },
+  {
+    "car_make": "Mercury",
+    "car_model": "Tracer",
+    "vin": "1FTEX1E88AK230572",
+    "price": 15431.36
+  },
+  {
+    "car_make": "Lincoln",
+    "car_model": "Mark VII",
+    "vin": "3C6TD5PT6CG692920",
+    "price": 14608.41
+  },
+  {
+    "car_make": "Lincoln",
+    "car_model": "Continental",
+    "vin": "WBAUL7C56AV417455",
+    "price": 11976.25
+  },
+  {
+    "car_make": "Hyundai",
+    "car_model": "Genesis",
+    "vin": "WAUBC48HX6K829234",
+    "price": 17039.17
+  },
+  {
+    "car_make": "GMC",
+    "car_model": "Yukon",
+    "vin": "JN1CV6AP3BM071849",
+    "price": 10786.28
+  },
+  {
+    "car_make": "Nissan",
+    "car_model": "300ZX",
+    "vin": "3D73Y4EL4BG291395",
+    "price": 11943.12
+  },
+  {
+    "car_make": "Aston Martin",
+    "car_model": "V12 Vantage",
+    "vin": "5LMJJ2H57AE236316",
+    "price": 19545.73
+  },
+  {
+    "car_make": "Acura",
+    "car_model": "Legend",
+    "vin": "2C3CDXDT1EH379127",
+    "price": 17634.59
+  },
+  {
+    "car_make": "Honda",
+    "car_model": "Prelude",
+    "vin": "1N6AA0EC5EN519167",
+    "price": 19078.29
+  },
+  {
+    "car_make": "Mazda",
+    "car_model": "MPV",
+    "vin": "SAJWA6BC1F8914089",
+    "price": 17207.53
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Escort",
+    "vin": "JA4AP3AU9BZ064744",
+    "price": 16377.77
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "3000GT",
+    "vin": "WP0CB2A86CS961136",
+    "price": 15299.46
+  },
+  {
+    "car_make": "Aston Martin",
+    "car_model": "DB9",
+    "vin": "KNADM5A33D6042545",
+    "price": 11495.51
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Montero Sport",
+    "vin": "JTJHY7AX7D4815808",
+    "price": 16232.41
+  },
+  {
+    "car_make": "Chrysler",
+    "car_model": "Town & Country",
+    "vin": "1FMEU7FE9AU152108",
+    "price": 18077
+  },
+  {
+    "car_make": "Mazda",
+    "car_model": "Familia",
+    "vin": "JTDZN3EU0E3453269",
+    "price": 10260.26
+  },
+  {
+    "car_make": "Audi",
+    "car_model": "A4",
+    "vin": "2HNYD186X1H170976",
+    "price": 19833.09
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Cordia",
+    "vin": "WUADNAFG9BN625132",
+    "price": 10587.84
+  },
+  {
+    "car_make": "Volkswagen",
+    "car_model": "Jetta",
+    "vin": "TRUVD38J391470870",
+    "price": 11574.25
+  },
+  {
+    "car_make": "Pontiac",
+    "car_model": "Bonneville",
+    "vin": "WAUMGAFL4EA295073",
+    "price": 13618.41
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Galant",
+    "vin": "WAUHFAFL0DA405135",
+    "price": 19846.53
+  },
+  {
+    "car_make": "BMW",
+    "car_model": "8 Series",
+    "vin": "JN8AF5MR1DT765445",
+    "price": 13335.94
+  },
+  {
+    "car_make": "Kia",
+    "car_model": "Optima",
+    "vin": "WBADS43483G361129",
+    "price": 10555.25
+  },
+  {
+    "car_make": "Buick",
+    "car_model": "Lucerne",
+    "vin": "3GTU2YEJ5CG130397",
+    "price": 15828.94
+  },
+  {
+    "car_make": "Chevrolet",
+    "car_model": "Malibu",
+    "vin": "WBA3C3G53EN932921",
+    "price": 12950.25
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Mustang",
+    "vin": "WBASP0C52DC477493",
+    "price": 12601.09
+  },
+  {
+    "car_make": "Aston Martin",
+    "car_model": "Virage",
+    "vin": "JH4KB26569C707521",
+    "price": 15075.57
+  },
+  {
+    "car_make": "Toyota",
+    "car_model": "Tacoma",
+    "vin": "WAUFFAFC6EN943811",
+    "price": 17819.34
+  },
+  {
+    "car_make": "Subaru",
+    "car_model": "Legacy",
+    "vin": "WBAEH73445C465891",
+    "price": 15176.96
+  },
+  {
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "vin": "KNDJN2A29E7504613",
+    "price": 19768.14
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Aerostar",
+    "vin": "1GD12YEG7FF975227",
+    "price": 11194.93
+  },
+  {
+    "car_make": "Toyota",
+    "car_model": "MR2",
+    "vin": "WAURVAFA9AN518835",
+    "price": 14798.62
+  },
+  {
+    "car_make": "Mercedes-Benz",
+    "car_model": "S-Class",
+    "vin": "KNADM5A3XE6347798",
+    "price": 10524.55
+  },
+  {
+    "car_make": "Toyota",
+    "car_model": "Tundra",
+    "vin": "5N1AR1NB3CC182155",
+    "price": 10095.67
+  },
+  {
+    "car_make": "Audi",
+    "car_model": "V8",
+    "vin": "WBSBL93495P338491",
+    "price": 10159.51
+  },
+  {
+    "car_make": "Mazda",
+    "car_model": "929",
+    "vin": "5FNRL3H28AB093133",
+    "price": 13818.9
+  },
+  {
+    "car_make": "GMC",
+    "car_model": "Safari",
+    "vin": "WAUCFAFR7DA114226",
+    "price": 10260.62
+  },
+  {
+    "car_make": "Lincoln",
+    "car_model": "MKX",
+    "vin": "1C4RDHAG5CC211753",
+    "price": 11460.73
+  },
+  {
+    "car_make": "Dodge",
+    "car_model": "Viper",
+    "vin": "1FTMF1CW5AK652198",
+    "price": 15198.29
+  },
+  {
+    "car_make": "Mercedes-Benz",
+    "car_model": "W201",
+    "vin": "1G6AJ5S35E0542985",
+    "price": 15345.57
+  },
+  {
+    "car_make": "GMC",
+    "car_model": "Canyon",
+    "vin": "WBA3D3C57EF541199",
+    "price": 18923.06
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "F150",
+    "vin": "1G6DP1E33C0095649",
+    "price": 16347.64
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Sigma",
+    "vin": "JH4CU26619C613814",
+    "price": 18107.86
+  },
+  {
+    "car_make": "Volkswagen",
+    "car_model": "GTI",
+    "vin": "1D7RB1CT9BS371247",
+    "price": 16528.46
+  },
+  {
+    "car_make": "Honda",
+    "car_model": "Accord",
+    "vin": "2G4GP5EC3B9240156",
+    "price": 17154.94
+  },
+  {
+    "car_make": "Land Rover",
+    "car_model": "Defender 90",
+    "vin": "KNDJN2A28F7097031",
+    "price": 13197.06
+  },
+  {
+    "car_make": "Chevrolet",
+    "car_model": "Prizm",
+    "vin": "1G4PT5SV6D4097999",
+    "price": 11793.3
+  },
+  {
+    "car_make": "Lexus",
+    "car_model": "SC",
+    "vin": "WBAWL13527P430738",
+    "price": 18113.49
+  },
+  {
+    "car_make": "Honda",
+    "car_model": "Odyssey",
+    "vin": "1D7RW5GK2BS129638",
+    "price": 17524.67
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Eclipse",
+    "vin": "4T1BF1FK8FU978944",
+    "price": 11898.58
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Montero",
+    "vin": "1G6DK5EY6B0520927",
+    "price": 16341.86
+  },
+  {
+    "car_make": "Jeep",
+    "car_model": "Compass",
+    "vin": "1G6DS57V390790873",
+    "price": 10697.92
+  },
+  {
+    "car_make": "Mercury",
+    "car_model": "Villager",
+    "vin": "1G6DA8E51D0877574",
+    "price": 12193.16
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Club Wagon",
+    "vin": "JM1NC2LF3D0805893",
+    "price": 19581.9
+  },
+  {
+    "car_make": "Dodge",
+    "car_model": "Spirit",
+    "vin": "5J6TF1H37AL628924",
+    "price": 13348.34
+  },
+  {
+    "car_make": "BMW",
+    "car_model": "M3",
+    "vin": "WAUEH48H88K893516",
+    "price": 17019.82
+  },
+  {
+    "car_make": "Toyota",
+    "car_model": "Supra",
+    "vin": "1G6DV1EP3E0163797",
+    "price": 15703.32
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Econoline E350",
+    "vin": "1C3CCBHG2CN052582",
+    "price": 14885.58
+  },
+  {
+    "car_make": "Dodge",
+    "car_model": "Grand Caravan",
+    "vin": "4JGBF2FE5AA928187",
+    "price": 17850.17
+  },
+  {
+    "car_make": "Audi",
+    "car_model": "A8",
+    "vin": "3VW467AT4DM576885",
+    "price": 10566.52
+  },
+  {
+    "car_make": "Dodge",
+    "car_model": "Durango",
+    "vin": "3N1CN7APXFL567429",
+    "price": 10334.76
+  },
+  {
+    "car_make": "Chevrolet",
+    "car_model": "Express 2500",
+    "vin": "WAULC68E25A015573",
+    "price": 15451.98
+  },
+  {
+    "car_make": "Chevrolet",
+    "car_model": "2500",
+    "vin": "1FTNF2A5XAE328490",
+    "price": 16278.13
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Falcon",
+    "vin": "JH4CU2F66BC040835",
+    "price": 15639.89
+  },
+  {
+    "car_make": "Porsche",
+    "car_model": "928",
+    "vin": "WAUKD98P09A362238",
+    "price": 14436.98
+  },
+  {
+    "car_make": "Chrysler",
+    "car_model": "Sebring",
+    "vin": "WA1EV94L38D118784",
+    "price": 12919.74
+  },
+  {
+    "car_make": "Mercedes-Benz",
+    "car_model": "SLK-Class",
+    "vin": "JM3ER2A56B0575943",
+    "price": 18235.62
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "E250",
+    "vin": "WA1DGBFE7ED577730",
+    "price": 11911.6
+  },
+  {
+    "car_make": "Lincoln",
+    "car_model": "Continental",
+    "vin": "1G4HD57277U438511",
+    "price": 13803.08
+  },
+  {
+    "car_make": "Hyundai",
+    "car_model": "Sonata",
+    "vin": "1G6KS54Y92U355957",
+    "price": 17023.2
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Explorer",
+    "vin": "3GYFNGE36DS038154",
+    "price": 19264.73
+  },
+  {
+    "car_make": "Dodge",
+    "car_model": "Ram Wagon B250",
+    "vin": "1G6DP57V190916682",
+    "price": 17097.82
+  },
+  {
+    "car_make": "Porsche",
+    "car_model": "Boxster",
+    "vin": "1G6DC8E5XC0715208",
+    "price": 19003.45
+  },
+  {
+    "car_make": "Land Rover",
+    "car_model": "Range Rover",
+    "vin": "3D7TP2CT0BG478871",
+    "price": 19266.76
+  },
+  {
+    "car_make": "Saturn",
+    "car_model": "VUE",
+    "vin": "WAUCFAFR0EA997474",
+    "price": 13177.63
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Eclipse",
+    "vin": "SCFEBBAK3BG536772",
+    "price": 17033.3
+  },
+  {
+    "car_make": "Volvo",
+    "car_model": "S40",
+    "vin": "JA32U1FU7DU462646",
+    "price": 14651.65
+  },
+  {
+    "car_make": "Infiniti",
+    "car_model": "EX",
+    "vin": "WAURV78TX8A386851",
+    "price": 18741.29
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Mirage",
+    "vin": "WA1WMAFE0FD824888",
+    "price": 10118.18
+  },
+  {
+    "car_make": "Nissan",
+    "car_model": "Xterra",
+    "vin": "WBAGH83461D845642",
+    "price": 16404.59
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "E150",
+    "vin": "WVWAN7AN3EE257866",
+    "price": 11188.78
+  },
+  {
+    "car_make": "Pontiac",
+    "car_model": "GTO",
+    "vin": "WVGEF9BP1FD282343",
+    "price": 18528.75
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "LTD",
+    "vin": "TRUSX28N811201520",
+    "price": 15765.27
+  },
+  {
+    "car_make": "Maserati",
+    "car_model": "Spyder",
+    "vin": "WBABS53471J592892",
+    "price": 15546.54
+  },
+  {
+    "car_make": "BMW",
+    "car_model": "Z3",
+    "vin": "WAUDFAFL9BN503570",
+    "price": 17672.16
+  },
+  {
+    "car_make": "Dodge",
+    "car_model": "Dakota",
+    "vin": "SCFAD01A58G476121",
+    "price": 17538.76
+  },
+  {
+    "car_make": "Lexus",
+    "car_model": "GS",
+    "vin": "1G6DF5EY6B0453704",
+    "price": 14130.02
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Aerostar",
+    "vin": "1C3BCBGG1DN584131",
+    "price": 11633.03
+  },
+  {
+    "car_make": "Mazda",
+    "car_model": "323",
+    "vin": "KMHGH4JH9DU750543",
+    "price": 17735.17
+  },
+  {
+    "car_make": "Toyota",
+    "car_model": "T100 Xtra",
+    "vin": "1FTEX1E85AF848876",
+    "price": 12850.56
+  },
+  {
+    "car_make": "Chevrolet",
+    "car_model": "Sportvan G30",
+    "vin": "1GYS4FEJ1CR965932",
+    "price": 10670.87
+  },
+  {
+    "car_make": "Audi",
+    "car_model": "A4",
+    "vin": "5FNYF3H31FB528142",
+    "price": 19098.85
+  },
+  {
+    "car_make": "BMW",
+    "car_model": "X3",
+    "vin": "1N6AA0EC1FN764100",
+    "price": 16533.54
+  },
+  {
+    "car_make": "Chevrolet",
+    "car_model": "Express 3500",
+    "vin": "1J4PR4GK9AC084056",
+    "price": 18890.57
+  },
+  {
+    "car_make": "Pontiac",
+    "car_model": "G6",
+    "vin": "WA1KK78R19A559704",
+    "price": 15643.08
+  },
+  {
+    "car_make": "Ford",
+    "car_model": "Laser",
+    "vin": "WAUML54D71N483250",
+    "price": 11386.84
+  },
+  {
+    "car_make": "Mitsubishi",
+    "car_model": "Eclipse",
+    "vin": "WAUEL94F46N385801",
+    "price": 16188.55
+  },
+  {
+    "car_make": "Dodge",
+    "car_model": "Dakota Club",
+    "vin": "WBAVB17566N523197",
+    "price": 12884.16
+  }
+]

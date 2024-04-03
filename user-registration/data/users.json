@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "15f2b921863b47adaae65be40db3b4e8",
+        "username": "warlock2",
+        "email": "warlock2@example.com",
+        "password": "$2b$15$PfTn8Tq8iGVYxMd62EXgyu/1sSQ6jpRBBO/csZYphBaFE/5CU7oPe",
+        "timestamps": {
+            "createdAt": "2024-03-28T18:49:54.836983+00:00",
+            "updatedAt": "2024-03-28T18:49:54.837023+00:00"
+        }
+    },
+    {
+        "_id": "f83cb992ada643cea8f4e036d2050fa5",
+        "username": "warlock3",
+        "email": "warlock3@example.com",
+        "password": "$2b$15$Kj9HB3DW1xuQK9EJlHsD5ucdyPuc50IiZ5bByfaYR6omOM4Bp5KL6",
+        "timestamps": {
+            "createdAt": "2024-03-29T00:00:07.220262+00:00",
+            "updatedAt": "2024-03-29T00:00:07.220848+00:00"
+        }
+    },
+    {
+        "_id": "7ee321bd87d1492595b98b29c8af32b2",
+        "username": "Desmond Idiot",
+        "email": "didiot@example.com",
+        "password": "$2b$15$MzvZJaHtvHNSO72WEOoAaOD2ifVlD7c.btlUz9FXMykNR7r6nOSR.",
+        "timestamps": {
+            "createdAt": "2024-03-29T23:45:59.172623+00:00",
+            "updatedAt": "2024-03-29T23:45:59.172635+00:00"
+        }
+    },
+    {
+        "_id": "362491f499594a9ba818e7b35bb67acb",
+        "username": "West Life",
+        "email": "wlife@example.com",
+        "password": "$2b$15$j8sjY3ATs2/TeU0ptUGlFOGdkfxIy7v7vJYSJILWZ28q6ExZen/Qa",
+        "timestamps": {
+            "createdAt": "2024-03-29T23:59:46.526487+00:00",
+            "updatedAt": "2024-03-29T23:59:46.526500+00:00"
+        }
+    }
+]
